@@ -1,4 +1,12 @@
 title: "Tutoriais — Jeferson Salles"
 description: "Linux, containers, Kubernetes, JBoss/WebLogic e ecossistema Red Hat"
-theme: jekyll-theme-cayman   # <-- troca aqui
-markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Aparência
+color_scheme: dark        # use "light" se preferir claro
+search_enabled: true
+aux_links:
+  LinkedIn: https://www.linkedin.com/in/jmsalles/
+  GitHub:   https://github.com/jmsalles/tutoriais
