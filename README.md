@@ -12,7 +12,7 @@ Repositório público de guias práticos e diretos sobre **Linux**, **containers
 - [🧭 Padrões editoriais](#-padrões-editoriais)
 - [🗂️ Estrutura de pastas](#️-estrutura-de-pastas)
 - [📝 Índice de artigos](#-índice-de-artigos)
-  - [Linux](#Linux)
+  - [Linux](#linux)
   - [Containers](#containers)
   - [Kubernetes](#kubernetes)
   - [Middleware](#middleware)
