@@ -44,5 +44,4 @@ Cada guia traz **contexto, passos claros, comandos prontos**, e um **checklist**
 
 ---
 
-## 🗂️ Estrutura de pastas
 
