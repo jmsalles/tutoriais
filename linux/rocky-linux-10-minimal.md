@@ -1,8 +1,3 @@
-
-
----
-
-````markdown
 # 🚀 Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal (com explicações)
 
 ## 📌 Resumo
