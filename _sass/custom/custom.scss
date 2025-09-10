@@ -1,8 +1,10 @@
-/* Overrides para o tema Just the Docs  — Jeferson Salles */
+/* Afinar a sidebar e aumentar zona de leitura */
+:root {
+  --nav-width: 220px;       /* padrão é ~264px; ajuste a gosto */
+}
 
-/* 1) Some a sidebar e zere a margem da área principal */
-.side-bar { display: none !important; }
-.main     { margin-left: 0 !important; }
+.side-bar { width: var(--nav-width) !important; }
+.main     { margin-left: var(--nav-width) !important; }
 
-/* 2) (Opcional) Deixe o conteúdo mais largo */
-.main .main-content { max-width: 1100px; } /* ajuste 1000–1200 se quiser */
+/* (Opcional) Mais largura para o miolo do texto */
+.main .main-content { max-width: 1100px; }
