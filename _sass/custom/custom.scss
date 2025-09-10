@@ -1,10 +1,20 @@
-/* Afinar a sidebar e aumentar zona de leitura */
+---
+---
+
+/* Just the Docs — ajustes da sidebar do Jeferson */
+
+/* controle centralizado */
 :root {
-  --nav-width: 264px;       /* padrão é ~264px; ajuste a gosto */
+  --nav-width: 220px;   /* largura da sidebar (200–240px funciona bem) */
+  --nav-gutter: 14px;   /* respiro entre a sidebar e o conteúdo */
 }
 
-.side-bar { width: var(--nav-width) !important; }
-.main     { margin-left: var(--nav-width) !important; }
+/* aplica só em telas largas, mantendo o mobile intacto */
+@media (min-width: 55rem) {
+  .side-bar { width: var(--nav-width) !important; }
+  .main     { margin-left: calc(var(--nav-width) + var(--nav-gutter)) !important; }
+  .main .main-content { max-width: 1100px; } /* opcional: 1000–1200 */
+}
 
-/* (Opcional) Mais largura para o miolo do texto */
-.main .main-content { max-width: 1000px; }
+/* (opcional) linha divisória mais nítida */
+.side-bar { border-right: 1px solid var(--border-color); }
