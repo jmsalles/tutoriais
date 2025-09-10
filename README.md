@@ -13,6 +13,8 @@ Repositório público de guias práticos e diretos sobre **Linux**, **containers
 - [🗂️ Estrutura de pastas](#️-estrutura-de-pastas)
 - [📝 Índice de artigos](#-índice-de-artigos)
   - [Linux](#linux)
+    - [Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal](./linux/rocky-linux-10-minimal.md)
+
   - [Containers](#containers)
   - [Kubernetes](#kubernetes)
   - [Middleware](#middleware)
