@@ -1,3 +1,8 @@
+---
+title: "Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal"
+parent: Linux
+nav_order: 1
+---
 # 🚀 Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal (com explicações)
 
 ## 📌 Resumo

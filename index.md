@@ -1,3 +1,8 @@
+---
+title: "Tutoriais — Linux, Containers, Middleware & Red Hat"
+layout: default
+nav_order: 1
+---
 # 📚 Tutoriais — Linux, Containers, Middleware & Ecossistema Red Hat
 
 Repositório público de guias práticos e diretos sobre **Linux**, **containers** (Podman/Buildah/Skopeo/Portainer), **Kubernetes**, **Middleware** (JBoss EAP, WebLogic), **Redes**, **Segurança**, **Certificações** e boas práticas alinhadas ao **ecossistema Red Hat**.

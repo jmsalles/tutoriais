@@ -1,4 +1,26 @@
+# _config.yml
 title: "Tutoriais — Jeferson Salles"
 description: "Linux, containers, Kubernetes, JBoss/WebLogic e ecossistema Red Hat"
-theme: jekyll-theme-minimal
-markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Aparência
+color_scheme: dark        # use "light" se preferir claro
+
+# Navegação / utilidades
+search_enabled: true
+aux_links:
+  "LinkedIn":
+    - "https://www.linkedin.com/in/jmsalles/"
+  "GitHub":
+    - "https://github.com/jmsalles/tutoriais"
+
+# Rodapé
+footer_content: "© Jeferson Salles • Conteúdo em Markdown puro"
+
+# Link “editar no GitHub” (opcional)
+gh_edit_link: true
+gh_edit_link_text: "Editar esta página no GitHub"
+gh_edit_repository: "https://github.com/jmsalles/tutoriais"
+gh_edit_branch: "main"
