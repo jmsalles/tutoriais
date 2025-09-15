@@ -1,6 +1,6 @@
 ---
-title: "O que é AWX"
-parent: Linux
+title: "O que e AWX"
+parent: Ansible
 nav_order: 1
 ---
 
