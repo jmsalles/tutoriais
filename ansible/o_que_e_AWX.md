@@ -4,6 +4,7 @@ parent: "Ansible (AAP e AWX)"
 nav_order: 1
 ---
 
+
 # O que é o **AWX?**
 
 ## 🎯 Visão geral
