@@ -22,6 +22,7 @@ Repositório público de guias práticos e diretos sobre **Linux**, **containers
 
   - [Containers](#containers)
   - [Ansible (AAP e AWX)](#ansible)
+     - [Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal](./linux/rocky-linux-10-minimal.md)
   - [Kubernetes](#kubernetes)
   - [Middleware](#middleware)
   - [Redes](#redes)
