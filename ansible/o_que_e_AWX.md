@@ -1,3 +1,9 @@
+---
+title: "O que é AWX"
+parent: Linux
+nav_order: 1
+---
+
 # O que é o **AWX**
 
 ## 🎯 Visão geral
