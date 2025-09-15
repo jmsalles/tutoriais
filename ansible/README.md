@@ -5,6 +5,6 @@ has_children: true
 permalink: /ansible/
 ---
 
-# Ansible (AAP e AWX)
+# Ansible
 
 Nesta seção ficam guias de Ansible, AAP (Ansible Automation Platform) e AWX.
