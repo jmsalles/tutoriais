@@ -23,7 +23,7 @@ Repositório público de guias práticos e diretos sobre **Linux**, **containers
   - [Containers](#containers)
   - [Ansible](#ansible)
     - [O que é AWX](./ansible/o_que_e_AWX.md)
-  - [Kubernetes](#kubernetes)
+  - [Kubernetesx](#kubernetes)
   - [Middleware](#middleware)
   - [Redes](#redes)
   - [Segurança](#segurança)
