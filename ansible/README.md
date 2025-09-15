@@ -1,6 +1,6 @@
 ---
-title: "Ansible (AAP e AWX)"
-nav_order: 30        # ajuste a posição no menu (10,20,30…)
+title: "Ansible"
+nav_order: 40        # ajuste a posição no menu (10,20,30…)
 has_children: true
 permalink: /ansible/
 ---
