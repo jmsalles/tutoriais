@@ -1,6 +1,6 @@
 ---
-title: "O que e AWX"
-parent: Ansible
+title: "O que é o AWX?"
+parent: Ansible (AAP e AWX)
 nav_order: 1
 ---
 

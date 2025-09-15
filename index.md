@@ -21,6 +21,10 @@ Repositório público de guias práticos e diretos sobre **Linux**, **containers
     - [Guia — Instalação & Pós-instalação do Rocky Linux 10 Minimal](./linux/rocky-linux-10-minimal.md)
 
   - [Containers](#containers)
+  - **Ansible (AAP e AWX)**
+  - [Página da seção](./ansible/)
+  - [O que é o AWX?](./ansible/o_que_e_AWX.md)
+
   - [Ansible](#ansible)
     - [O que e AWX](./ansible/o_que_e_AWX.md)
   - [Kubernetesx](#kubernetes)
